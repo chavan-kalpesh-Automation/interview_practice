@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-anim-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-awt-util-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-bridge-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-constants-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-css-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-ext-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-gvt-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-i18n-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-parser-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-script-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-shared-resources-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-svg-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-svggen-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-svgrasterizer-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-transcoder-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-util-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-xml-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/bcutil-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/fontbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/graphics2d-0.40.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/pdfbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/xmlgraphics-commons-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/xmlsec-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/byte-buddy-1.14.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/failsafe-3.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-buffer-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-codec-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-codec-http-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-codec-socks-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-common-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-handler-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-handler-proxy-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-resolver-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-transport-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-transport-classes-epoll-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-transport-classes-kqueue-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-transport-native-epoll-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-transport-native-kqueue-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/netty-transport-native-unix-common-4.1.90.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-api-1.24.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-api-events-1.24.0-alpha.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-api-logs-1.24.0-alpha.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-context-1.24.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-exporter-logging-1.24.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-sdk-1.24.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-sdk-common-1.24.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-sdk-extension-autoconfigure-1.24.0-alpha.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-sdk-extension-autoconfigure-spi-1.24.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-sdk-logs-1.24.0-alpha.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-sdk-metrics-1.24.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-sdk-trace-1.24.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/opentelemetry-semconv-1.24.0-alpha.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-api-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-api-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-chrome-driver-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-chrome-driver-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-chromium-driver-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-chromium-driver-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-devtools-v85-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-devtools-v85-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-devtools-v109-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-devtools-v109-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-devtools-v110-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-devtools-v110-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-devtools-v111-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-devtools-v111-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-edge-driver-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-edge-driver-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-firefox-driver-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-firefox-driver-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-http-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-http-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-ie-driver-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-ie-driver-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-java-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-java-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-json-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-json-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-manager-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-manager-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-remote-driver-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-remote-driver-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-safari-driver-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-safari-driver-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-support-4.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/selenium-support-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium Driver/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
