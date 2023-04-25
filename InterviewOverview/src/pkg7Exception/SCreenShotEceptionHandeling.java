@@ -32,10 +32,13 @@ public class SCreenShotEceptionHandeling {
 		SimpleDateFormat sdf = new SimpleDateFormat("YYYY-MM-DD HH-MM-SS");
 
 		TakesScreenshot ss = (TakesScreenshot) driver;
+
 		File source = ss.getScreenshotAs(OutputType.FILE);
+
 		File destination = new File("F:\\SCreenShot Files\\" + sdf.format(currentDate) + ".png");
 
 		FileHandler.copy(source, destination);
+		
 
 	}
 
