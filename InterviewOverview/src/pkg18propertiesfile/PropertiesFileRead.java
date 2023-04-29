@@ -1,31 +1,31 @@
 package pkg18propertiesfile;
 
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+//Properties file data fetching 
+//"C:\Users\VISHAL\git\InterviewOverview\InterviewOverview\Config.properties"
 
 public class PropertiesFileRead {
+	public static Properties prop;
 
-	public static void main(String[] args) throws InterruptedException {
-		System.setProperty("webdriver.chrome.driver	", "F:\\Chrome Driver\\chromedriver.exe");
-		WebDriver driver = new ChromeDriver();
-		Properties prop = new Properties();
-		FileInputStream file = null;
+	public static void property() {
 		try {
-			file = new FileInputStream(
-					"C:\\Users\\VISHAL\\git\\InterviewOverview\\InterviewOverview\\Config.properties");
-			prop.load(file);
-		} catch (IOException e) {
-			System.out.println(e.getMessage());
+		prop = new Properties();
+		FileInputStream ipFile = new FileInputStream(
+				"C:\\Users\\VISHAL\\git\\InterviewOverview\\InterviewOverview\\Config.properties");
+		prop.load(ipFile);
 		}
-
-		driver.get(prop.getProperty("Url"));
-		driver.manage().window().maximize();
-		Thread.sleep(2000);
-	
+		
+		catch(FileNotFoundException  e) {
+			e.printStackTrace();
+		}
+		
+		catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
-
 }
+	
