@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-anim-1.14.jar"/>
 	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-awt-util-1.14.jar"/>
 	<classpathentry kind="lib" path="F:/Aapache POI/poi-bin-5.2.3/all together/batik-bridge-1.14.jar"/>

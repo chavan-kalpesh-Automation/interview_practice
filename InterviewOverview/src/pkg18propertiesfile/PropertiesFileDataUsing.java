@@ -17,21 +17,29 @@ public class PropertiesFileDataUsing extends PropertiesFileRead {
 		System.setProperty("webdriver.chrome.driver", "F:\\Chrome Driver\\chromedriver.exe");
 		driver = new ChromeDriver();
 		// URL from properties file
-		driver.get(prop.getProperty("Url"));
+		
+		
+		
+		
+		driver.get(PropertiesFileRead.prop.getProperty("Url"));
+		
+//		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 		driver.manage().window().maximize();
+		
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-		wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("Xpath Xpression of locator ")));
+		
+		wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//input[@name='username']")));
 
 	}
 
 	public static void loginmethod() {
-		WebElement username = driver.findElement(By.xpath(""));
+		WebElement username = driver.findElement(By.xpath("//input[@name='username']"));
 		username.sendKeys(prop.getProperty("Username"));
 
-		WebElement password = driver.findElement(By.xpath(""));
+		WebElement password = driver.findElement(By.xpath("//input[@name='password']"));
 		password.sendKeys(prop.getProperty("Password"));
 
-		WebElement loginbtn = driver.findElement(By.xpath(""));
+		WebElement loginbtn = driver.findElement(By.xpath("//button[@type='submit']"));
 		loginbtn.click();
 
 	}
