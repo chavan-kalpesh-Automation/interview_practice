@@ -225,7 +225,7 @@ public class ClassC {
 
 		// Explicit waits
 		WebElement waitele = driver.findElement(By.xpath("xpath xpression"));
-		WebDriverWait wait = new WebDriverWait(driver, 19);
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		wait.until(ExpectedConditions.alertIsPresent());
 		wait.until(ExpectedConditions.elementToBeClickable(By.xpath("xpath xpression"))).click();
 		wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("xpath xpression")));

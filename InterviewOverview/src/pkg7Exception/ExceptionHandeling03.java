@@ -13,7 +13,6 @@ public class ExceptionHandeling03 {
 	public static void main(String[] args) {
 		ExceptionHandeling03 obj =new ExceptionHandeling03();
 		obj.movieage(17);
-		System.out.println(obj.getMessage());
-		
+//		System.out.println(obj.getMessage());
 	}
 }

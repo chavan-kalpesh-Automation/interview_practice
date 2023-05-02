@@ -1,5 +1,6 @@
 package pkg18propertiesfile;
 
+import java.io.IOException;
 import java.time.Duration;
 
 import org.openqa.selenium.By;
@@ -9,30 +10,28 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class PropertiesFileDataUsing extends PropertiesFileRead {
+public class PropertiesFileDataUsing extends PropertiesClass {
 
-	public static WebDriver driver;
+	public PropertiesFileDataUsing() throws IOException {
+		// super();
 
-	public static void browserlaunching() {
 		System.setProperty("webdriver.chrome.driver", "F:\\Chrome Driver\\chromedriver.exe");
-		driver = new ChromeDriver();
+		WebDriver driver = new ChromeDriver();
+
 		// URL from properties file
-		
-		
-		
-		
-		driver.get(PropertiesFileRead.prop.getProperty("Url"));
-		
-//		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
+		System.out.println(driver);
+
+		// Classname.PropertiesCassrefvaraible.getProperty method
+
+		driver.get(PropertiesClass.prop.getProperty("Url"));
+
+		// driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 		driver.manage().window().maximize();
-		
+												
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-		
+
 		wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//input[@name='username']")));
 
-	}
-
-	public static void loginmethod() {
 		WebElement username = driver.findElement(By.xpath("//input[@name='username']"));
 		username.sendKeys(prop.getProperty("Username"));
 
@@ -44,9 +43,9 @@ public class PropertiesFileDataUsing extends PropertiesFileRead {
 
 	}
 
-	public static void main(String[] args) {
-		browserlaunching();
-		loginmethod();
+	public static void main(String[] args) throws IOException {
+		
+		new PropertiesFileDataUsing();
 
 	}
 

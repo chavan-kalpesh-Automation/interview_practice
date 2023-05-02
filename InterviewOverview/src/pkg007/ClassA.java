@@ -2,6 +2,7 @@ package pkg007;
 
 import java.io.File;
 import java.io.IOException;
+import java.time.Duration;
 import java.util.List;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
@@ -114,7 +115,7 @@ public class ClassA {
 
 		// Explicit wait-->this waits allows webdirver to wait certain condition
 		WebElement element = driver.findElement(By.xpath("xpath xpression"));
-		WebDriverWait wait = new WebDriverWait();
+		WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(10));
 		
 
 		// Fluent Wait

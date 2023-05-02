@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="pkg17TestNG.SkippingAndEnabledFalse">
+      <class name="pkg17TestNG.TimeOuts">
         <methods>
-          <include name="TestCase2"/>
           <include name="TestCase1"/>
+          <include name="TestCase2"/>
         </methods>
-      </class> <!-- pkg17TestNG.SkippingAndEnabledFalse -->
+      </class> <!-- pkg17TestNG.TimeOuts -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
