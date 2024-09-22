@@ -5,20 +5,20 @@
       <![CDATA[checking log message given in Reporter class log method ]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-02-03T16:43:47 IST" name="Suite" finished-at="2024-02-03T16:43:47 IST" duration-ms="67">
+  <suite started-at="2024-09-01T17:24:17 IST" name="Suite" finished-at="2024-09-01T17:24:17 IST" duration-ms="56">
     <groups>
     </groups>
-    <test started-at="2024-02-03T16:43:47 IST" name="Test" finished-at="2024-02-03T16:43:47 IST" duration-ms="67">
+    <test started-at="2024-09-01T17:24:17 IST" name="Test" finished-at="2024-09-01T17:24:17 IST" duration-ms="56">
       <class name="testNG.TestNGIntro">
-        <test-method signature="TestCase5()[pri:-5, instance:testNG.TestNGIntro@1a942c18]" started-at="2024-02-03T16:43:47 IST" name="TestCase5" finished-at="2024-02-03T16:43:47 IST" duration-ms="9" status="PASS">
+        <test-method signature="TestCase5()[pri:-5, instance:testNG.TestNGIntro@173ed316]" started-at="2024-09-01T17:24:17 IST" name="TestCase5" finished-at="2024-09-01T17:24:17 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase5 -->
-        <test-method signature="TestCase4()[pri:0, instance:testNG.TestNGIntro@1a942c18]" started-at="2024-02-03T16:43:47 IST" name="TestCase4" finished-at="2024-02-03T16:43:47 IST" duration-ms="1" status="PASS">
+        <test-method signature="TestCase4()[pri:0, instance:testNG.TestNGIntro@173ed316]" started-at="2024-09-01T17:24:17 IST" name="TestCase4" finished-at="2024-09-01T17:24:17 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase4 -->
-        <test-method signature="loginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNG.TestNGIntro@1a942c18]" started-at="2024-02-03T16:43:47 IST" name="loginMethod" finished-at="2024-02-03T16:43:47 IST" duration-ms="2" status="PASS">
+        <test-method signature="loginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNG.TestNGIntro@173ed316]" started-at="2024-09-01T17:24:17 IST" name="loginMethod" finished-at="2024-09-01T17:24:17 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -34,26 +34,26 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginMethod -->
-        <test-method signature="test()[pri:0, instance:testNG.TestNGIntro@1a942c18]" started-at="2024-02-03T16:43:47 IST" name="test" finished-at="2024-02-03T16:43:47 IST" duration-ms="2" status="PASS">
+        <test-method signature="test()[pri:0, instance:testNG.TestNGIntro@173ed316]" started-at="2024-09-01T17:24:17 IST" name="test" finished-at="2024-09-01T17:24:17 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="TestCase()[pri:5, instance:testNG.TestNGIntro@1a942c18]" started-at="2024-02-03T16:43:47 IST" name="TestCase" finished-at="2024-02-03T16:43:47 IST" duration-ms="3" status="PASS">
+        <test-method signature="TestCase()[pri:5, instance:testNG.TestNGIntro@173ed316]" started-at="2024-09-01T17:24:17 IST" name="TestCase" finished-at="2024-09-01T17:24:17 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[checking log message given in Reporter class log method ]]>
             </line>
           </reporter-output>
         </test-method> <!-- TestCase -->
-        <test-method signature="TestCase2()[pri:5, instance:testNG.TestNGIntro@1a942c18]" started-at="2024-02-03T16:43:47 IST" name="TestCase2" finished-at="2024-02-03T16:43:47 IST" duration-ms="1" status="PASS">
+        <test-method signature="TestCase2()[pri:5, instance:testNG.TestNGIntro@173ed316]" started-at="2024-09-01T17:24:17 IST" name="TestCase2" finished-at="2024-09-01T17:24:17 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase2 -->
-        <test-method signature="TestCase2()[pri:5, instance:testNG.TestNGIntro@1a942c18]" started-at="2024-02-03T16:43:47 IST" name="TestCase2" finished-at="2024-02-03T16:43:47 IST" duration-ms="1" status="PASS">
+        <test-method signature="TestCase2()[pri:5, instance:testNG.TestNGIntro@173ed316]" started-at="2024-09-01T17:24:17 IST" name="TestCase2" finished-at="2024-09-01T17:24:17 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase2 -->
-        <test-method signature="TestCase3()[pri:5, instance:testNG.TestNGIntro@1a942c18]" started-at="2024-02-03T16:43:47 IST" name="TestCase3" finished-at="2024-02-03T16:43:47 IST" duration-ms="0" status="PASS">
+        <test-method signature="TestCase3()[pri:5, instance:testNG.TestNGIntro@173ed316]" started-at="2024-09-01T17:24:17 IST" name="TestCase3" finished-at="2024-09-01T17:24:17 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase3 -->
