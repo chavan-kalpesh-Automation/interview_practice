@@ -8,6 +8,7 @@ public class StringInitialization {
 		
 		String name="name ";//by using string litral 
 		
-		
+		System.out.println(ss);
+System.out.println(name);
 	}
 }

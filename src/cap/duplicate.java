@@ -1,7 +1,5 @@
 package cap;
 
-import com.mysql.cj.protocol.x.SyncFlushDeflaterOutputStream;
-
 public class duplicate {
 public static void main(String args[]) {
 	String namee ="Sakkett";

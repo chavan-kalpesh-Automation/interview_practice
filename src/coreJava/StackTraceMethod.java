@@ -6,7 +6,8 @@ public class StackTraceMethod {
 	 String methodname=new Exception().getStackTrace()[0].getMethodName();
 	 String classname=new Exception().getStackTrace()[1].getClassName();
 	 System.out.println(methodname);
-	
+	 System.out.println("class name :-"+classname);
+
  }
  public static void methodsecond() {
 	 String methodname=new Exception().getStackTrace()[0].getMethodName();

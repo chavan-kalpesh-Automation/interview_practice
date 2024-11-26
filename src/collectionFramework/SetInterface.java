@@ -15,7 +15,7 @@ public class SetInterface {
 		
 		
 //		HashSet 
-		Set<Integer>hashset=new HashSet();
+		Set<Integer>hashset=new HashSet<Integer>();
 		hashset.add(20);
 		hashset.add(4);
 		hashset.add(6);
@@ -25,7 +25,7 @@ public class SetInterface {
 		System.out.println("HashSet (Unordered) "+hashset);
 		
 //		LinkedhashSet
-		LinkedHashSet<Integer>linkedhashset=new LinkedHashSet();
+		LinkedHashSet<Integer>linkedhashset=new LinkedHashSet<Integer>();
 		linkedhashset.add(10);
 		linkedhashset.add(20);
 		linkedhashset.add(20);
@@ -33,7 +33,7 @@ public class SetInterface {
 		System.out.println("LinkedHashSet (Ordered +unique value)"+linkedhashset);
 		
 //		TreeSet
-		TreeSet<Integer>treeSet=new TreeSet();
+		TreeSet<Integer>treeSet=new TreeSet<Integer>();
 		treeSet.add(100);
 		treeSet.add(10);
 		treeSet.add(10);

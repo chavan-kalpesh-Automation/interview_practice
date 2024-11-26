@@ -14,21 +14,21 @@ public class ListInterface {
 //		Ordered Collection and Duplicate Allow
 		
 //		ArrayList
-		ArrayList<String>names=new ArrayList();
+		ArrayList<String>names=new ArrayList<String>();
 		names.add(0, "kalpesh");
 		names.add(1, "Sanajay");
 		names.add(2,"chavan");
 		System.out.println("ArrayList "+names);
 	
 //		LinkedList
-		List linkedlist=new LinkedList<Integer>();
+		List<Integer> linkedlist=new LinkedList<Integer>();
 		linkedlist.add(0, 11);
 		linkedlist.add(1,12);
 		linkedlist.add(2,13);
 		System.out.println("LinkedList "+linkedlist);
 		
 //		Vector
-		Vector<String>vector=new Vector();
+		Vector<String>vector=new Vector<String>();
 		vector.add("101");
 		vector.add(0, "100");
 		vector.add(2,"104");
@@ -36,7 +36,7 @@ public class ListInterface {
 		System.out.println("Vector "+vector);
 		
 //		Stack
-		Stack<Integer>stack=new Stack();
+		Stack<Integer>stack=new Stack<Integer>();
 		stack.push(5);
 		stack.push(10);
 		stack.push(15);
