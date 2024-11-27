@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="118" started-at="2023-04-30T07:42:14Z" finished-at="2023-04-30T07:42:15Z">
+    <groups>
+      <group name="regression">
+        <method signature="TestNGGroups2.TestCase22()[pri:0, instance:pkg17TestNG.TestNGGroups2@63753b6d]" name="TestCase22" class="pkg17TestNG.TestNGGroups2"/>
+        <method signature="TestNGGroups2.TestCase24()[pri:0, instance:pkg17TestNG.TestNGGroups2@63753b6d]" name="TestCase24" class="pkg17TestNG.TestNGGroups2"/>
+      </group> <!-- regression -->
+    </groups>
+    <test name="Default test" duration-ms="118" started-at="2023-04-30T07:42:14Z" finished-at="2023-04-30T07:42:15Z">
+      <class name="pkg17TestNG.TestNGGroups2">
+        <test-method status="PASS" signature="TestCase21()[pri:0, instance:pkg17TestNG.TestNGGroups2@63753b6d]" name="TestCase21" duration-ms="28" started-at="2023-04-30T13:12:15Z" finished-at="2023-04-30T13:12:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase21 -->
+        <test-method status="PASS" signature="TestCase22()[pri:0, instance:pkg17TestNG.TestNGGroups2@63753b6d]" name="TestCase22" duration-ms="7" started-at="2023-04-30T13:12:15Z" finished-at="2023-04-30T13:12:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase22 -->
+        <test-method status="PASS" signature="TestCase23()[pri:0, instance:pkg17TestNG.TestNGGroups2@63753b6d]" name="TestCase23" duration-ms="3" started-at="2023-04-30T13:12:15Z" finished-at="2023-04-30T13:12:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase23 -->
+        <test-method status="PASS" signature="TestCase24()[pri:0, instance:pkg17TestNG.TestNGGroups2@63753b6d]" name="TestCase24" duration-ms="5" started-at="2023-04-30T13:12:15Z" finished-at="2023-04-30T13:12:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase24 -->
+        <test-method status="PASS" signature="TestCase25()[pri:0, instance:pkg17TestNG.TestNGGroups2@63753b6d]" name="TestCase25" duration-ms="4" started-at="2023-04-30T13:12:15Z" finished-at="2023-04-30T13:12:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase25 -->
+      </class> <!-- pkg17TestNG.TestNGGroups2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
